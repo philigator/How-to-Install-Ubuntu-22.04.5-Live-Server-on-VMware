@@ -148,6 +148,8 @@ IV. **Use the Gateway**:
 
       ![image](https://github.com/user-attachments/assets/bca75459-c132-4b07-b1d9-0bb675f11122)
 
+      ![image](https://github.com/user-attachments/assets/6be65f13-fc35-4960-a397-c528b03a6814)
+
 18. On the **Profile setup** screen:
     - Enter a username, password, and hostname for the server.
     - Click **Done** to proceed.
